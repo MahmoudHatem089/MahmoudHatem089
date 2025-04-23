@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mahmoud Hatem 👋</h1>
+<h1 align="left">Hi there, I'm Mahmoud Hatem 👋</h1>
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <p align="center">
