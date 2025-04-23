@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Mahmoud Hatem 👋</h1>
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
